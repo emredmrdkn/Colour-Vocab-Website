@@ -1,2 +1,2 @@
 # ColourVocabWebsite
-Colour Vocab Website
+ColourVocabWebsite
